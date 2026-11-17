@@ -1,0 +1,1 @@
+// Lògica compartida del projecte.
