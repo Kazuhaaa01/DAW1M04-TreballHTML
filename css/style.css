@@ -37,7 +37,8 @@ main {
 
 p{
   font-size:40px;
-  
+  margin:auto;
+  font-family:sans-serif;
 }
 
 img{
