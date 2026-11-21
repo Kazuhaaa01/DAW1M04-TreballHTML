@@ -43,9 +43,9 @@ p{
 }
 
 img{
-  height:100px;
-  width:100px;
-  align-items:center;
+  height:80%;
+  width:80%;
+  margin:auto;
 }
 
 ::first-letter{
