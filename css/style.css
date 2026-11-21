@@ -14,7 +14,8 @@ nav {
   background-color:blueviolet;
   opacity:0.5;
   border-radius:50px;
-  
+  position:fixed;
+  align-items: space-around;
 }
 
 main {
