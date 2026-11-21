@@ -35,12 +35,17 @@ main {
   text-align:center;
 }
 
-::first-letter{
-  color: rgb(32, 32, 230);
+p{
+  font-size:40px;
+  
 }
 
 img{
   height:100px;
   width:100px;
   margin:auto;
+}
+
+::first-letter{
+  color: rgb(32, 32, 230);
 }
