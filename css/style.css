@@ -42,7 +42,9 @@ p{
   text-align:center;
 }
 
-
+img{
+  align-content:center;
+}
 
 ::first-letter{
   color: rgb(32, 32, 230);
