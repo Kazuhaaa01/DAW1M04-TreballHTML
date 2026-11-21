@@ -38,3 +38,9 @@ main {
 ::first-letter{
   color: rgb(32, 32, 230);
 }
+
+img{
+  height:100px;
+  width:100px;
+  margin:auto;
+}
