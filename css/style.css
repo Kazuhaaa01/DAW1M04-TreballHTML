@@ -11,6 +11,10 @@ nav {
   display: flex;
   gap: 1rem;
   padding: 1rem;
+  background-color:blueviolet;
+  opacity:0.5;
+  border-radius:50px;
+  
 }
 
 main {
@@ -19,8 +23,13 @@ main {
 
 .inici{
   text-align: center;
+  font-size:20px;
 }
 
 .justificar{
   text-align:center;
+}
+
+::first-letter{
+  color: rgb(32, 32, 230);
 }
