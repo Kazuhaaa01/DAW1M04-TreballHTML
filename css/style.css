@@ -46,6 +46,25 @@ img{
   align-items:center;
 }
 
+img>footer{
+  width:30px;
+  height:30px;
+}
+
+.fila{
+  display:flex;
+  flex-direction:row;
+
+}
+
+
+@media (max-width:760px) {
+  hero{
+    max-width:fit-content;
+    max-height:fit-content;
+  }
+}
+
 ::first-letter{
   color: rgb(32, 32, 230);
 }
