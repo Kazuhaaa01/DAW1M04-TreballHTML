@@ -51,9 +51,38 @@ img>footer{
   height:30px;
 }
 
+footer{
+  background-color:lightblue;
+  border-radius:999px;
+  margin:auto;
+  padding:40px;
+}
+
+i>footer {
+  cursor:pointer;
+  transition: 0.25 ease, box-shadow 0.25s ease;
+}
+
+a>footer{
+  cursor:pointer;
+  transition:0.25 ease, box shadow 0.25 ease;
+}
+.i>footer:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.18);
+}
+
+.a>footer:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.18);
+}
+
+
+
 .fila{
   display:flex;
   flex-direction:row;
+  align-items:flex-start;
 
 }
 
@@ -68,3 +97,4 @@ img>footer{
 ::first-letter{
   color: rgb(32, 32, 230);
 }
+
