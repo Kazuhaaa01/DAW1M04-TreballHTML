@@ -89,12 +89,6 @@ a>footer{
 }
 
 
-@media (max-width:760px) {
-  hero{
-    max-width:fit-content;
-    max-height:fit-content;
-  }
-}
 
 ::first-letter{
   color: rgb(32, 32, 230);
