@@ -107,6 +107,8 @@ hero>p{
   border: solid 1px, transparent;
   transition: transform .15 ease, background-color .2 ease, border-color .2s ease;
   text-wrap:nowrap;
+  border-radius:100px;
+  background-color:rgb(40, 128, 205);
 
 }
 
