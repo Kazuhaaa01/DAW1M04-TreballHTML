@@ -87,8 +87,41 @@ a>footer{
   align-items:flex-start;
 
 }
+hero{
+  margin:auto;
+}
 
+hero>img{
+  height:80px;
+  width:80px;
+}
+hero>p{
+  text-align:center;
+  font-size:60px;
+}
+.boto:hover{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  padding:15px;
+  border: solid 1px, transparent;
+  transition: transform .15 ease, background-color .2 ease, border-color .2s ease;
+  text-wrap:nowrap;
 
+}
+
+div{
+  margin:auto;
+}
+
+div>p{
+  font-size:60px;
+}
+
+div>img{
+  height:70px;
+  width:70px;
+}
 
 ::first-letter{
   color: rgb(32, 32, 230);
