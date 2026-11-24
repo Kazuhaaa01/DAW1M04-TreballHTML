@@ -158,7 +158,10 @@ div>img{
 
 }
 
-
+.descripcio{
+  text-align:center;
+  font-size:35px;
+}
 
 ::first-letter{
   color: rgb(32, 32, 230);
