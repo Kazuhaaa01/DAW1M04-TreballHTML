@@ -147,6 +147,19 @@ div>img{
   margin:auto;
 }
 
+.cap{
+  text-align:center;
+  text-decoration-color:rgb(40, 128, 205);
+  text-decoration-line:underline;
+}
+
+.enunciat{
+  text-align:center;
+
+}
+
+
+
 ::first-letter{
   color: rgb(32, 32, 230);
 }
