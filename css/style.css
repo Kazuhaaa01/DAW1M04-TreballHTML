@@ -163,6 +163,14 @@ div>img{
   font-size:35px;
 }
 
+.reproductor>h2{
+  text-align:left;
+}
+
+.reproductor>p{
+  text-align:left;
+}
+
 ::first-letter{
   color: rgb(32, 32, 230);
 }
