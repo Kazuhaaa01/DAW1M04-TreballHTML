@@ -171,6 +171,14 @@ div>img{
   text-align:left;
 }
 
+.radio{
+  background:white;
+  border-radius:10px;
+  text-align:left;
+  opacity:0.8s;
+
+}
+
 ::first-letter{
   color: rgb(32, 32, 230);
 }
