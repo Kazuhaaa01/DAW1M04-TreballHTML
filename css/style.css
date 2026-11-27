@@ -177,7 +177,14 @@ div>img{
   object-fit:contain;
 }
 
+.audio>p{
+  margin:auto;
+  font-size:30px;
+}
 
+video{
+  margin:auto;
+}
 
 ::first-letter{
   color: rgb(32, 32, 230);
