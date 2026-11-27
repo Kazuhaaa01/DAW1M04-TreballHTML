@@ -171,13 +171,13 @@ div>img{
   text-align:left;
 }
 
-.radio{
-  background:white;
-  border-radius:10px;
-  text-align:left;
-  opacity:0.8s;
-
+.audio{
+  overflow:clip;
+  overflow-clip-margin: content-box;
+  object-fit:contain;
 }
+
+
 
 ::first-letter{
   color: rgb(32, 32, 230);
