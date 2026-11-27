@@ -198,6 +198,12 @@ source{
   margin:auto;
 }
 
+.targetes{
+  display:flex;
+  flex-direction:row;
+  margin:auto;
+}
+
 ::first-letter{
   color: rgb(32, 32, 230);
 }
