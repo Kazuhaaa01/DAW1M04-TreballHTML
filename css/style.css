@@ -130,6 +130,10 @@ div>img{
   margin:auto;
 }
 
+div>img:hover{
+  transition: transform .30 ease, border-color .15s ease;
+}
+
 .fila{
   display:flex;
   flex-direction:row;
