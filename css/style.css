@@ -118,11 +118,16 @@ div{
 
 div>p{
   font-size:60px;
+  margin:auto;
+}
+div>h1{
+  margin:auto;
 }
 
 div>img{
   height:70px;
   width:70px;
+  margin:auto;
 }
 
 .fila{
@@ -183,6 +188,9 @@ div>img{
 }
 
 video{
+  margin:auto;
+}
+source{
   margin:auto;
 }
 
